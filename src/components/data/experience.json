@@ -1,0 +1,31 @@
+[{
+        "id": 1,
+        "role": "The National Institute of Engineering",
+        "standard": "Bachelor in Engineering",
+        "startDate": "Dec, 2022",
+        "endDate": "April,2026",
+        "location": "Mysuru,Karnataka",
+        "imageSrc": "company/nie.png",
+        "gpa": "8.6 GPA"
+    },
+    {
+        "id": 2,
+        "role": "B.N Collegiate",
+        "standard": "Pre-University",
+        "startDate": "April 2019",
+        "endDate": "March, 2021",
+        "location": "Patna, Bihar",
+        "imageSrc": "company/biharboard.png",
+        "gpa": "83.2%"
+    },
+    {
+        "id": 3,
+        "role": "D.A.V Public School",
+        "standard": "Matriculation",
+        "startDate": "March, 2018",
+        "endDate": "March, 2019",
+        "location": "Patna, Bihar",
+        "imageSrc": "company/dav.png",
+        "gpa": "93.8%"
+    }
+]
