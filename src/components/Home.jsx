@@ -30,7 +30,7 @@ const Home = () => {
     <div className="container home " data-aos='fade-right' data-aos-duration="6000" id='home'>
       <div className="left" data-aos='fade-right' data-aos-duration="6000">
         <h1 ref={typedRef}></h1>
-        <a href={pdf} download="Manav's Resume" className="btn btn-outline-warning my-3">Download my Resume</a>
+        <a href={pdf} download="Resume" className="btn btn-outline-warning my-3">Download my Resume</a>
       </div>
       <div className="right" data-aos='fade-left' data-aos-duration="6000">
         <div className="img">
