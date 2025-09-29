@@ -34,5 +34,9 @@
     {
         "title": "MongoDB",
         "imageSrc": "skills/mongodb.png"
+    },
+    {
+        "title": "SpringBoot",
+        "imageSrc": "skills/mongodb.png"
     }
 ]
